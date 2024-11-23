@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pechandiat, I’m an Electrical Engineer transitioning into Data Science, combining a solid background in engineering with a passion for extracting insights from data.
+-👋 Hi, I’m @pechandiat, I’m an Electrical Engineer transitioning into Data Science, combining a solid background in engineering with a passion for extracting insights from data.
 
 -💻 Proficient in Python, SQL, and data visualization tools like Power BI, along with experience in machine learning libraries (Pandas, NumPy, Scikit-learn, TensorFlow, Keras).
 
@@ -6,7 +6,7 @@
 
 -📊 Through hands-on data science projects, I’ve explored predictive modeling, exploratory data analysis, and visualization, aiming to generate impactful, data-driven insights.
 
-- 📫 How to reach me pechandiat@gmail.com
+-📫 How to reach me pechandiat@gmail.com
 
 <!---
 pechandiat/pechandiat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
