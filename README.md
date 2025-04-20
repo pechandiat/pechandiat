@@ -1,10 +1,4 @@
--👋 Hi, I’m @pechandiat, I’m an Electrical Engineer transitioning into Data Science, combining a solid background in engineering with a passion for extracting insights from data.
-
--💻 Proficient in Python, SQL, and data visualization tools like Power BI, along with experience in machine learning libraries (Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Keras).
-
--⚡ With 15+ engineering projects under my belt, I’ve developed a knack for problem-solving, collaboration, and adapting to fast-paced environments.
-
--📊 Through hands-on data science projects, I’ve explored predictive modeling, exploratory data analysis, and visualization, aiming to generate impactful, data-driven insights.
+-👋 Hi, I’m @pechandiat, Versatile Data Scientist/Engineer, with over 2 years of specialized experience in building machine learning models with Python. Proficient in both supervised and unsupervised learning, with strong analytical thinking and problem-solving skills. Skilled writing advanced SQL queries with Postgres, creating impactful visualizations with PowerBI, and working with modern data stacks including Snowflake and AWS for cloud-based data workflows.
 
 -📫 How to reach me pechandiat@gmail.com
 
